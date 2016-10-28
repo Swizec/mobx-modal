@@ -7,8 +7,6 @@ import DevTools from 'mobx-react-devtools';
 import { observer } from 'mobx-react';
 import Modal, { closeStyle } from 'simple-react-modal';
 
-mobx.useStrict(true);
-
 class Store {
     @observable modal = {
         show: false,
