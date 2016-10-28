@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # MobX-powered React modal example
 
-This is going to be an example of driving a modal with MobX.
+![Modals can embed <App />](/modal-inception.gif?raw=true "Modals can embed <App />")
